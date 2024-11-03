@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="48"
+   height="48"
+   viewBox="0 0 12.7 12.7"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   sodipodi:docname="Fulmine.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="16"
+     inkscape:cx="18.34375"
+     inkscape:cy="32.75"
+     inkscape:window-width="1366"
+     inkscape:window-height="761"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer3" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <image
+       width="10.583333"
+       height="10.583333"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       xlink:href="../images/image1.png"
+       id="image1"
+       x="1.0583335"
+       y="1.0583335"
+       inkscape:label="Zap store immagine" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Livello 3"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#fefefd;fill-opacity:1;stroke:#000000;stroke-width:0.0264583;stroke-dasharray:none;stroke-opacity:1"
+       d="M 6.2243492,9.2747341 C 5.7759085,8.9496055 5.3880734,8.6642805 5.3624936,8.6406785 5.3303096,8.6109825 5.2874111,8.5577868 5.2874111,8.5046488 c 0,-0.1243212 0.072532,-0.1389624 0.3457503,-0.2071253 0.2791625,-0.069646 0.3442815,-0.112156 0.3442815,-0.2247496 0,-0.056615 -0.1617284,-0.3295604 -0.8337866,-1.4071634 C 4.6850739,5.9303022 4.299051,5.3083689 4.2858278,5.2835364 4.2481886,5.2128521 4.2454544,5.1270958 4.3117902,5.0766245 4.3650191,5.0361255 4.4374905,5.0187174 4.5292043,5.0244002 l 0.720765,-0.00577 c 0.8590176,-0.00688 0.8851234,-0.00364 0.941061,-0.029939 0.04626,-0.024233 0.055326,-0.066741 0.056709,-0.098508 C 6.2492487,4.8555143 6.2081939,4.5863232 6.069753,3.9600046 5.9622338,3.4735787 5.8742246,3.0423338 5.8741769,3.0016824 5.8739921,2.844039 6.0767445,2.7748697 6.1876918,2.8947264 c 0.1092543,0.1180277 2.2253541,3.0390553 2.2449015,3.0795334 0.047541,0.098446 -0.00367,0.1614632 -0.067278,0.1828746 -0.047704,0.016057 -0.1809336,0.037656 -0.8265893,0.059958 -0.6585566,0.022747 -0.7839383,0.032012 -0.8285129,0.061218 -0.1095617,0.071788 -0.1091374,0.081957 0.033032,0.7917026 0.1717155,0.8572462 0.1666766,0.8512507 0.5777856,0.6874654 0.1141452,-0.045475 0.2313196,-0.082682 0.2603877,-0.082682 0.061954,0 0.1781525,0.021206 0.1729051,0.1586068 -7.928e-4,0.020759 -0.106319,0.46997 -0.2356665,0.9981324 C 7.2612181,9.8827316 7.2139003,9.9141295 7.1364716,9.9026144 7.0699502,9.8927215 6.942405,9.795339 6.2243492,9.2747341 Z"
+       id="path9"
+       inkscape:label="Fulmine"
+       sodipodi:nodetypes="sssssssscscsssssssssssssss" />
+  </g>
+</svg>
